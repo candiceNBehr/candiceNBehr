@@ -26,6 +26,7 @@ I'm a Senior Full Stack Developer with 6 years of experience, specializing in bu
   <img src="https://img.shields.io/badge/-Express.js-%23000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/-Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
 <!-- About Me Section -->
