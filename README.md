@@ -35,7 +35,7 @@ I'm a Senior Full Stack Developer with 6 years of experience, specializing in bu
 - 🌱 I’m learning: The MERN stack to enhance my development toolkit
 - 👯 I’m looking to collaborate on: Full-stack projects, UX/UI design, and product development
 - 💬 Ask me about: LAMP Stack, PHP, JavaScript, UX/UI design, or anything about front-end development
-- 📫 How to reach me: candynicibehr@gmail.com | in/candice-behr-76677a92
+- 📫 How to reach me: candynicibehr@gmail.com | [in/candice-behr-76677a92](https://www.linkedin.com/in/candice-behr-76677a92)
 
 <!-- Fun Fact Section -->
 ### ⚡ Fun fact: 
